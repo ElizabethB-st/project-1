@@ -11,3 +11,14 @@ let arrAvg = arr => {
   avg = sum / arr.length;
   return avg;
 };
+
+//Req. 3 c
+let arrMax = arr => {
+  let maxNum = 0;
+  arr.forEach((index, i) => {
+    if (arr[i] > maxNum) {
+      maxNum = arr[i];
+    }
+  });
+  return maxNum;
+};
