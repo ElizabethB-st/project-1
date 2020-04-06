@@ -22,3 +22,14 @@ let arrMax = arr => {
   });
   return maxNum;
 };
+
+//Req. 3 d
+let sumEvens = arr => {
+  let evens = 0;
+  for (let i of arr) {
+    if (i % 2 == 0) {
+      evens = evens + i;
+    }
+  }
+  return evens;
+};
