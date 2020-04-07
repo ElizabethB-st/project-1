@@ -33,3 +33,10 @@ let sumEvens = arr => {
   }
   return evens;
 };
+
+// Req. 3 e XC
+let alphaPosition = function(ch) {
+  let charCode;
+  charCode = ch.charCodeAt();
+  return charCode;
+};
