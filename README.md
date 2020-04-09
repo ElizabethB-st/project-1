@@ -6,4 +6,4 @@
 - Install and Configure Git using the Unix Shell
 - I learned how to make and delete directories
   ![](images/githubOctocat.png)
-  [](https://pages.uoregon.edu/ebowden/281/)
+- https://pages.uoregon.edu/ebowden/281/
