@@ -4,6 +4,11 @@
 
 - Basic Unix Shell commands
 - Install and Configure Git using the Unix Shell
-- I learned how to make and delete directories
+- Basic Git Commands (add, commit, push, clone)
+- Github overview
+- Markdown language for README files
+- JavaScript ES6+ features
+
   ![](images/githubOctocat.png)
+
 - https://pages.uoregon.edu/ebowden/281/
